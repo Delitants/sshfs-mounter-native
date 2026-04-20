@@ -2,3 +2,17 @@
 dist
 node_modules
 tmp
+# Native build
+native/build/
+native/dmg_build/
+*.dmg.blockmap
+
+# Dependencies
+node_modules/
+
+# macOS
+.DS_Store
+
+# IDE
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
