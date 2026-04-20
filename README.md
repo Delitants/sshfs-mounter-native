@@ -2,7 +2,7 @@
 
 A native macOS GUI application for mounting SSHFS (SSH File System) volumes.
 
-![Screenshot](native/screenshot.png)
+![Screenshot](screenshot.png)
 
 ## Features
 
