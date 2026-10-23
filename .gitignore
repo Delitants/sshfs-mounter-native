@@ -16,3 +16,20 @@ node_modules/
 # IDE
 *.xcodeproj/project.xcworkspace/
 *.xcodeproj/xcuserdata/
+
+# Local publication material
+/work/
+/outputs/
+/reports/
+/test-reports/
+/evidence/
+/docs/superpowers/
+/docs/acceptance/
+/docs/internal/
+/docs/plans/
+/docs/reports/
+/release-evidence.json
+/RELEASE-INFO.json
+/AGENTS.md
+/CLAUDE.md
+/GEMINI.md

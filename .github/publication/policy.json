@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "repository": "Delitants/sshfs-mounter-native",
+  "baseline": "901686c005293c78c11e446e52a9111f216cc21e",
+  "public_docs": [],
+  "public_data": [],
+  "release_assets": [
+    "SSHFS.Mounter-*-native.dmg"
+  ]
+}
